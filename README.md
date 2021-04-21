@@ -1,3 +1,14 @@
 # Inverted-pendulum-on-a-cart-control
+PID 
+![Video](PID.gif)
 
-![Video](MPC.avi)
+LQR 
+![Video](LQR.gif)
+
+MPC 
+![Video](MPC.gif)
+
+MPC - Invert
+![Video](MPC_Invert.gif)
+
+
