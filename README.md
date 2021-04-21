@@ -1,6 +1,6 @@
 # Inverted-pendulum-on-a-cart-control
 PID 
-![Video](PID.gif)
+![Video](PID_.gif)
 
 LQR 
 ![Video](LQR.gif)
